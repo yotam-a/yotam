@@ -1,0 +1,13 @@
+body{
+    background-color: hsl(158, 100%, 22%);
+    color: white;
+    text-align: center;
+}
+h1{
+    background-color: aquamarine;
+    box-shadow: 3px 3px 2px black;
+}
+a{
+    font-size: 101%;
+    color: rgb(0, 255, 110);
+}
